@@ -5,4 +5,5 @@ module.exports = {
     password: 'password',
     database: 'tutorial_node_database'
   }
+  useNullAsDefault: true
 }
